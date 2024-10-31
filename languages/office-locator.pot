@@ -1,0 +1,1971 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Office locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-13 11:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: admin/class-office-locator-custom-setting.php:607
+#: admin/class-office-locator-custom-setting.php:638
+#: admin/class-office-locator-custom-setting.php:891
+msgid "%"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A fully featured office locator plugin that allows to add multiples office "
+"on your custom page, customizable style for maps and office makers that "
+"suits your site."
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:70
+msgid "Add New"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:71
+msgid "Add New Office"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:164
+#: admin/includes/class-offices-functions.php:226
+msgid "Address"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:186
+msgid "Afghanistan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:187
+msgid "Albania"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:188
+msgid "Algeria"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:69
+msgid "All Offices"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:189
+msgid "American Samoa"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:190
+msgid "Andorra"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:191
+msgid "Angola"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:192
+msgid "Anguilla"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:193
+msgid "Antarctica"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:194
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:449
+msgid "API Key"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:129
+msgid "Arabic"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:195
+msgid "Argentina"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:196
+msgid "Armenia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:197
+msgid "Aruba"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:198
+msgid "Ascension Island"
+msgstr ""
+
+#: includes/packages.php:166
+msgid "Aubergine"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:199
+msgid "Australia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:200
+msgid "Austria"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:201
+msgid "Azerbaijan"
+msgstr ""
+
+#: public/class-public.php:152
+msgid "Back"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:202
+msgid "Bahamas"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:203
+msgid "Bahrain"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:204
+msgid "Bangladesh"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:205
+msgid "Barbados"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:130
+msgid "Basque"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:206
+msgid "Belarus"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:207
+msgid "Belgium"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:208
+msgid "Belize"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:132
+msgid "Bengali"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:209
+msgid "Benin"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:210
+msgid "Bermuda"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:211
+msgid "Bhutan"
+msgstr ""
+
+#: includes/packages.php:120
+msgid "Blue"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:212
+msgid "Bolivia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:213
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:214
+msgid "Botswana"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:121
+msgid "BOTTOM CENTER"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:122
+msgid "BOTTOM LEFT"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:123
+msgid "BOTTOM RIGHT"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:215
+msgid "Bouvet Island"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:216
+msgid "Brazil"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:217
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:218
+msgid "British Virgin Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:219
+msgid "Brunei"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:220
+msgid "Bulgaria"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:131
+msgid "Bulgarian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:221
+msgid "Burkina Faso"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:222
+msgid "Burundi"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:223
+msgid "Cambodia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:224
+msgid "Cameroon"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:225
+msgid "Canada"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:226
+msgid "Canary Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:227
+msgid "Cape Verde"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:228
+msgid "Caribbean Netherlands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:133
+msgid "Catalan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:229
+msgid "Cayman Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:230
+msgid "Central African Republic"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:231
+msgid "Ceuta and Melilla"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:232
+msgid "Chad"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:233
+msgid "Chile"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:234
+msgid "China"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:180
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:181
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:235
+msgid "Christmas Island"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:230
+msgid "City"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:482
+msgid "Clarifications"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:236
+msgid "Clipperton Island"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:237
+msgid "Cocos (Keeling), Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:238
+msgid "Colombia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:239
+msgid "Comoros"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:240
+msgid "Congo (DRC),"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:241
+msgid "Congo (Republic),"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:861
+msgid "Container"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:242
+msgid "Cook Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:243
+msgid "Costa Rica"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:238
+msgid "Country"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:244
+msgid "Croatia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:148
+msgid "Croatian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:245
+msgid "Cuba"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:246
+msgid "Curaçao"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:943
+msgid "Custom Start Location Marker"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:965
+msgid "Custom Store Location Marker"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:921
+msgid "Custom Style"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:247
+msgid "Cyprus"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:134
+msgid "Czech"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:248
+msgid "Czech Republic"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:249
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:135
+msgid "Danish"
+msgstr ""
+
+#: includes/packages.php:158
+msgid "Dark"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:252
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:250
+msgid "Denmark"
+msgstr ""
+
+#: public/includes/office-locator-ajax-functions.php:165
+msgid "Direction"
+msgstr ""
+
+#: admin/class-field-functions.php:1321
+msgid "Disable"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:794
+msgid "Distance Unit"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:251
+msgid "Djibouti"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:253
+msgid "Dominica"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:254
+msgid "Dominican Republic"
+msgstr ""
+
+#: admin/includes/class-extra-field-functions.php:238
+msgid "Download Sample CSV"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:160
+msgid "Dutch"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:197
+msgid "E-Mail"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:255
+msgid "Ecuador"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:72
+msgid "Edit Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:256
+msgid "Egypt"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:257
+msgid "El Salvador"
+msgstr ""
+
+#: admin/class-field-functions.php:1316
+msgid "Enable"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:543
+msgid "Enable full Screen control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:526
+msgid "Enable map type control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:998
+msgid "Enable Permalink"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:568
+msgid "Enable scroll wheel zooming"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:820
+msgid "Enable Start Location Marker Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:836
+msgid "Enable Start Location Marker Pop-Up Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:828
+msgid "Enable Store Location Marker Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:844
+msgid "Enable Store Location Marker Pop-Up Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:804
+msgid "Enable Stores Filter Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:812
+msgid "Enable Stores Offices Control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:509
+msgid "Enable the street view controls"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:560
+msgid "Enable Zoom control"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:128
+msgid "English"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:138
+msgid "English (Australian)"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:139
+msgid "English (Great Britain)"
+msgstr ""
+
+#: public/template-parts/layout/global/office-locator-filter.php:5
+msgid "Enter office locations"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:258
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:259
+msgid "Eritrea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:260
+msgid "Estonia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:261
+msgid "Ethiopia"
+msgstr ""
+
+#: admin/includes/class-extra-field-functions.php:263
+msgid "Export"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1104
+msgid "Export Office Address"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:262
+msgid "Falkland Islands(Islas Malvinas),"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:263
+msgid "Faroe Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:141
+msgid "Farsi"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:193
+msgid "Fax"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:80
+msgid "Featured Image for this Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:264
+msgid "Fiji"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:143
+msgid "Filipino"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:87
+msgid "Filter offices list"
+msgstr ""
+
+#: public/template-parts/layout/global/office-locator-filter.php:47
+msgid "Find Stores"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:265
+msgid "Finland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:142
+msgid "Finnish"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:266
+msgid "France"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:144
+msgid "French"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:267
+msgid "French Guiana"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:268
+msgid "French Polynesia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:269
+msgid "French Southern Territories"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:551
+msgid "Full Screen Control Position"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:862
+msgid "Full Width"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:270
+msgid "Gabon"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:145
+msgid "Galician"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:271
+msgid "Gambia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:272
+msgid "Georgia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:136
+msgid "German"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:273
+msgid "Germany"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:274
+msgid "Ghana"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:275
+msgid "Gibraltar"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:276
+msgid "Greece"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:137
+msgid "Greek"
+msgstr ""
+
+#: includes/packages.php:124
+msgid "Green"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:277
+msgid "Greenland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:278
+msgid "Grenada"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:280
+msgid "Guadeloupe"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:279
+msgid "Guam"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:281
+msgid "Guatemala"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:282
+msgid "Guernsey"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:283
+msgid "Guinea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:284
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:146
+msgid "Gujarati"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:285
+msgid "Guyana"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:286
+msgid "Haiti"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:287
+msgid "Heard and McDonald Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:152
+msgid "Hebrew"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:626
+#: admin/class-office-locator-custom-setting.php:687
+#: admin/class-office-locator-custom-setting.php:748
+msgid "Height"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:147
+msgid "Hindi"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:288
+msgid "Honduras"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:289
+msgid "Hong Kong"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:451
+#, php-format
+msgid ""
+"How to obtain google maps api key? <a href=\"%s\" target=\"_blank\">click "
+"here</a>."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://office-locator.webbytemplate.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webbytemplate.com/"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:149
+msgid "Hungarian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:290
+msgid "Hungary"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:771
+msgid "Hybrid"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:291
+msgid "Iceland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:459
+msgid ""
+"If no map language is chosen, the browsers default language is utilised."
+msgstr ""
+
+#: admin/includes/class-extra-field-functions.php:237
+msgid "Import"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:79
+#: admin/class-office-locator-custom-setting.php:1088
+msgid "Import / Export"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1096
+msgid "Import Office Address"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:292
+msgid "India"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:293
+msgid "Indonesia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:150
+msgid "Indonesian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:501
+msgid "Inner Zoom Level"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:85
+msgid "Insert into Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:294
+msgid "Iran"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:295
+msgid "Iraq"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:296
+msgid "Ireland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:297
+msgid "Isle of Man"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:298
+msgid "Israel"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:151
+msgid "Italian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:299
+msgid "Italy"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:300
+msgid "Jamaica"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:301
+msgid "Japan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:153
+msgid "Japanese"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:302
+msgid "Jersey"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:303
+msgid "Jordan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:154
+msgid "Kannada"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:304
+msgid "Kazakhstan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:305
+msgid "Kenya"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:306
+msgid "Kiribati"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:155
+msgid "Korean"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:307
+msgid "Kosovo"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:308
+msgid "Kuwait"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:309
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:310
+msgid "Laos"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:311
+msgid "Latvia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:157
+msgid "Latvian"
+msgstr ""
+
+#: includes/packages.php:173
+msgid "Layout 1"
+msgstr ""
+
+#: includes/packages.php:177
+msgid "Layout 2"
+msgstr ""
+
+#: includes/packages.php:181
+msgid "Layout 3"
+msgstr ""
+
+#: includes/packages.php:185
+msgid "Layout 4"
+msgstr ""
+
+#: includes/packages.php:189
+msgid "Layout 5"
+msgstr ""
+
+#: includes/packages.php:193
+msgid "Layout 6"
+msgstr ""
+
+#: includes/packages.php:197
+msgid "Layout 7"
+msgstr ""
+
+#: includes/packages.php:201
+msgid "Layout 8"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:312
+msgid "Lebanon"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:119
+msgid "LEFT BOTTOM"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:117
+msgid "LEFT CENTER"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:115
+msgid "LEFT TOP"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:313
+msgid "Lesotho"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:314
+msgid "Liberia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:315
+msgid "Libya"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:316
+msgid "Liechtenstein"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:317
+msgid "Lithuania"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:156
+msgid "Lithuanian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:318
+msgid "Luxembourg"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:319
+msgid "Macau"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:320
+msgid "Macedonia (FYROM),"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:321
+msgid "Madagascar"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:322
+msgid "Malawi"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:158
+msgid "Malayalam"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:323
+msgid "Malaysia "
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:324
+msgid "Maldives "
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:325
+msgid "Mali"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:326
+msgid "Malta"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:442
+msgid "Map API"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:900
+msgid "Map Background Color"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:901
+msgid "Map Background Color Colours."
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:870
+msgid "Map Container Max Width"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:858
+msgid "Map Container Size"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:617
+msgid "Map Height"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:458
+msgid "Map Language"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:975
+msgid "Map Layout"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:779
+msgid "Map Office Radius"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:786
+msgid "Map Office Results"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:466
+msgid "Map Region"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:64
+msgid "Map Settings"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:908
+msgid "Map Styles"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:767
+msgid "Map Type"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:534
+msgid "Map Type Control Position"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:69
+msgid "Map View Generator"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:586
+msgid "Map Width"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:159
+msgid "Marathi"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:327
+msgid "Marshall Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:328
+msgid "Martinique"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:329
+msgid "Mauritania"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:330
+msgid "Mauritius"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:331
+msgid "Mayotte"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:332
+msgid "Mexico"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:333
+msgid "Micronesia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:334
+msgid "Moldova"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:335
+msgid "Monaco"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:336
+msgid "Mongolia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:337
+msgid "Montenegro"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:338
+msgid "Montserrat"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:339
+msgid "Morocco"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:340
+msgid "Mozambique"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:68
+msgid "My Offices"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:341
+msgid "Myanmar (Burma),"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:185
+msgid "Name"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:342
+msgid "Namibia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:343
+msgid "Nauru"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:344
+msgid "Nepal"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:345
+msgid "Netherlands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:346
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:347
+msgid "New Caledonia"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:73
+msgid "New Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:348
+msgid "New Zealand"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:349
+msgid "Nicaragua"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:350
+msgid "Niger"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:351
+msgid "Nigeria"
+msgstr ""
+
+#: includes/packages.php:162
+msgid "Night"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:352
+msgid "Niue"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:77
+msgid "No Offices Found"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:78
+msgid "No Offices Found in Trash"
+msgstr ""
+
+#: public/class-public.php:150
+msgid "No offices found."
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:353
+msgid "Norfolk Island"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:354
+msgid "North Korea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:355
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:356
+msgid "Norway"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:161
+msgid "Norwegian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:162
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:67
+#: admin/includes/class-offices-functions.php:91
+msgid "Office"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:84
+msgid "Office Archives"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:163
+msgid "Office Information"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:250
+msgid "Office Latitude"
+msgstr ""
+
+#: public/template-parts/layout/global/office-locator-filter.php:4
+msgid "Office Locations"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-admin.php:122
+msgid "Office Locator"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:246
+msgid "Office Longitude"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:92
+msgid "Office published"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:93
+msgid "Office published privately"
+msgstr ""
+
+#: public/template-parts/layout/global/office-locator-filter.php:9
+msgid "Office Radius"
+msgstr ""
+
+#: public/template-parts/layout/global/office-locator-filter.php:25
+msgid "Office Results"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:94
+msgid "Office reverted to draft"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:95
+msgid "Office scheduled"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:96
+msgid "Office updated"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1046
+#: admin/class-office-locator-custom-setting.php:1052
+#: admin/includes/class-offices-functions.php:66
+#: admin/includes/class-offices-functions.php:101
+msgid "Offices"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:90
+msgid "Offices Attributes"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:89
+msgid "Offices list"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:88
+msgid "Offices list navigation"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:357
+msgid "Oman"
+msgstr ""
+
+#: admin/includes/class-extra-field-functions.php:240
+msgid "Only CSV files may be imported. Same as per sample CSV."
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1004
+msgid "Open Office New Tab"
+msgstr ""
+
+#: admin/includes/class-extra-field-functions.php:129
+msgid "OR"
+msgstr ""
+
+#: includes/packages.php:128
+msgid "Orange"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:494
+msgid "Outer Zoom Level"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:358
+msgid "Pakistan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:359
+msgid "Palau"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:360
+msgid "Palestine"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:361
+msgid "Panama"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:362
+msgid "Papua New Guinea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:363
+msgid "Paraguay"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:79
+#: admin/includes/class-offices-functions.php:97
+msgid "Parent Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:74
+#: admin/class-office-locator-custom-setting.php:992
+msgid "Permalink"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:364
+msgid "Peru"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:365
+msgid "Philippines"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:189
+msgid "Phone"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:366
+msgid "Pitcairn Islands"
+msgstr ""
+
+#: public/template-parts/layout/office-locator-layout-8.php:32
+#: public/template-parts/layout/office-locator-layout-1.php:45
+#: public/template-parts/layout/office-locator-layout-6.php:47
+#: public/template-parts/layout/office-locator-layout-7.php:41
+#: public/template-parts/layout/office-locator-layout-5.php:47
+#: public/template-parts/layout/office-locator-layout-3.php:51
+#: public/template-parts/layout/office-locator-layout-2.php:45
+#: public/template-parts/layout/office-locator-layout-4.php:50
+msgid "Please Enter Google API First to Load Google Map"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:367
+msgid "Poland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:163
+msgid "Polish"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:368
+msgid "Portugal"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:164
+msgid "Portuguese"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:165
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:166
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:242
+msgid "Postal Code"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:369
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/packages.php:132
+msgid "Purple"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:606
+#: admin/class-office-locator-custom-setting.php:637
+#: admin/class-office-locator-custom-setting.php:668
+#: admin/class-office-locator-custom-setting.php:698
+#: admin/class-office-locator-custom-setting.php:729
+#: admin/class-office-locator-custom-setting.php:759
+#: admin/class-office-locator-custom-setting.php:890
+msgid "PX"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:370
+msgid "Qatar"
+msgstr ""
+
+#: includes/packages.php:136
+msgid "Red"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:82
+msgid "Remove featured image for this office"
+msgstr ""
+
+#: admin/class-admin.php:167
+msgid "Reset"
+msgstr ""
+
+#: includes/packages.php:154
+msgid "Retro"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:371
+msgid "Reunion"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:120
+msgid "RIGHT BOTTOM"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:118
+msgid "RIGHT CENTER"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:116
+msgid "RIGHT TOP"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:770
+msgid "Roadmap"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:372
+msgid "Romania"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:167
+msgid "Romanian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:373
+msgid "Russia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:168
+msgid "Russian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:374
+msgid "Rwanda"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:375
+msgid "Saint Helena"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:376
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:378
+msgid "Saint Lucia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:377
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:379
+msgid "Samoa"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:380
+msgid "San Marino"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:772
+msgid "Satellite"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:382
+msgid "Saudi Arabia"
+msgstr ""
+
+#: admin/class-admin.php:178
+msgid "Save"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:76
+msgid "Search Offices"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:603
+#: admin/class-office-locator-custom-setting.php:634
+#: admin/class-office-locator-custom-setting.php:665
+#: admin/class-office-locator-custom-setting.php:695
+#: admin/class-office-locator-custom-setting.php:726
+#: admin/class-office-locator-custom-setting.php:756
+#: admin/class-office-locator-custom-setting.php:887
+msgid "Select"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:127
+msgid "Select your language"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:185
+msgid "Select your region"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:383
+msgid "Senegal"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:384
+msgid "Serbia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:171
+msgid "Serbian"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:81
+msgid "Set featured image for this office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:59 includes/packages.php:234
+msgid "Settings"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:385
+msgid "Seychelles"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1066
+#: admin/class-office-locator-custom-setting.php:1073
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:386
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/packages.php:150
+msgid "Silver"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:387
+msgid "Singapore"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:388
+msgid "Sint Maarten"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:169
+msgid "Slovak"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:389
+msgid "Slovakia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:390
+msgid "Slovenia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:170
+msgid "Slovenian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:391
+msgid "Solomon Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:392
+msgid "Somalia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:393
+msgid "South Africa"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:394
+msgid "South Georgia and South Sandwich Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:395
+msgid "South Korea"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:396
+msgid "South Sudan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:397
+msgid "Spain"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:140
+msgid "Spanish"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:398
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/packages.php:146
+msgid "Standard"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:931
+msgid "Start Location Marker"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:678
+msgid "Start Location Marker Height"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:648
+msgid "Start Location Marker Width"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:490
+msgid "Start point"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:234
+msgid "State"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:953
+msgid "Store Location Marker"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:739
+msgid "Store Location Marker Height"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:709
+msgid "Store Location Marker Width"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1010
+msgid "Store Slug"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:517
+msgid "Street View Control Position"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:852
+msgid "Styles"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:399
+msgid "Sudan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:400
+msgid "Swaziland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:401
+msgid "Sweden"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:172
+msgid "Swedish"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:402
+msgid "Switzerland"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:403
+msgid "Syria"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:404
+msgid "São Tomé &amp; Príncipe"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:381
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:173
+msgid "Tagalog"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:405
+msgid "Taiwan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:406
+msgid "Tajikistan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:174
+msgid "Tamil"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:407
+msgid "Tanzania"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:175
+msgid "Telugu"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:773
+msgid "Terrain"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:176
+msgid "Thai"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:408
+msgid "Thailand"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:1012
+msgid "The <b>permalink slugs</b> must be unique on your site"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:467
+#, php-format
+msgid ""
+"This will skew the <a href=\"%s\" target=\"_blank\">geocoding</a> results in "
+"favour of the chosen region.<br>If no region is chosen, the bias is set to "
+"the United States."
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:409
+msgid "Timor-Leste"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:411
+msgid "Togo"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:410
+msgid "Tokelau"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:412
+msgid "Tonga"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:112
+msgid "TOP CENTER"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:113
+msgid "TOP LEFT"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:114
+msgid "TOP RIGHT"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:413
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:414
+msgid "Tristan da Cunha"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:415
+msgid "Tunisia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:416
+msgid "Turkey"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:177
+msgid "Turkish"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:417
+msgid "Turkmenistan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:418
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:419
+msgid "Tuvalu"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:420
+msgid "Uganda"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:421
+msgid "Ukraine"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:178
+msgid "Ukrainian"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:422
+msgid "United Arab Emirates"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:423
+msgid "United Kingdom"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:424
+msgid "United States"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:86
+msgid "Uploaded to this Office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:425
+msgid "Uruguay"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:83
+msgid "Use as featured image for this office"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:426
+msgid "Uzbekistan"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:427
+msgid "Vanuatu"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:428
+msgid "Vatican City"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:429
+msgid "Venezuela"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:430
+msgid "Vietnam"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:179
+msgid "Vietnamese"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:74
+msgid "View Office"
+msgstr ""
+
+#: admin/includes/class-offices-functions.php:75
+msgid "View Offices"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:431
+msgid "Wallis Futuna"
+msgstr ""
+
+#. Author of the plugin
+msgid "webbytemplate"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:432
+msgid "Western Sahara"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:595
+#: admin/class-office-locator-custom-setting.php:657
+#: admin/class-office-locator-custom-setting.php:718
+#: admin/class-office-locator-custom-setting.php:879
+msgid "Width"
+msgstr ""
+
+#: admin/class-admin.php:119
+msgid "WT Plugins"
+msgstr ""
+
+#: includes/packages.php:140
+msgid "Yellow"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:433
+msgid "Yemen"
+msgstr ""
+
+#: public/class-public.php:151
+msgid "Your Start Office Location"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:434
+msgid "Zambia"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:435
+msgid "Zimbabwe"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:576
+msgid "Zoom Control Position"
+msgstr ""
+
+#: admin/class-office-locator-custom-setting.php:436
+msgid "Åland Islands"
+msgstr ""

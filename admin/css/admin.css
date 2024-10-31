@@ -1,0 +1,58 @@
+/**
+* All of the CSS for your admin-specific functionality should be
+* included in this file.
+*/
+
+/* Office Locator Custom Post( offices ) Type Metabox Start
+----------------------------------------------------------------*/
+.office-locator-metabox input[type="text"] { width: 100%; }
+.office-locator-metabox textarea { width: 100%; }
+.office-locator-metabox th { vertical-align: top; text-align: left; padding: 10px; width: 200px; line-height: 1.3; font-weight: 600; }
+.form-table .selected-image ul { grid-template-columns: repeat(2,minmax(0,1fr)); }
+.wt-section.wt-locator-scroll.activated .form-table-wrap{ position: fixed; top: 32px; z-index: 99; background: #f0f0f1 !important; border-bottom: 1px solid #d5d5d5 !important; left: 0; width: calc( 100% - 210px ); margin-left: 180px; }
+.wt-section.wt-locator-scroll.activated .title { border-color: #000 !important; }
+#wt-panel-settings .panel-wrapper .wt-section.wt-locator-scroll.activated .form-table .input-field input { border-color: #000 !important; background: #fff; }
+#wt-panel-settings .panel-wrapper .wt-section.wt-locator-scroll.activated .form-table .input-field .field-trigger { background: #fff; border: 1px solid; border-left: 0; }
+table.office-locator-metabox { text-align: left; }
+.wt-section .form-table-wrap .form-table .office-locator-table .office_locator_content .offcie_locator_csv_main { display: flex; width: 100%; max-width: 500px; }
+.wt-section .form-table-wrap .form-table .office_locator_file_box { width: 100%; margin-right: 5px; }
+input#offcie_locator_file_upload[type="file"]::-webkit-file-upload-button { background: #f9bc60; border: 0; border-radius: 4px; color: #000; cursor: pointer; font-size: 12px; font-weight: 600; outline: none; padding: 6px 15px; text-transform: capitalize; transition: all 0.5s ease; }
+.wt-section .form-table-wrap .form-table .office-locator-table .download-tooltip a:hover, .wt-section .form-table-wrap .form-table .office-locator-table .office_locator_content .offcie_locator_csv_main .offcie_locator_upload_btn:hover, .wt-section .form-table-wrap .form-table .office-locator-export .offcie_locator_export_btn:hover, input#offcie_locator_file_upload[type="file"]::-webkit-file-upload-button:hover { background: #f0f0f1; }
+
+/* Office Locator Custom Post( offices ) Type Metabox End
+----------------------------------------------------------------*/
+
+/* Office Locator Import Export Table Start
+----------------------------------------------*/
+.wt-section .form-table-wrap .form-table .office_locator_file_box span { margin-top: -30px; display: block; max-width: 500px; text-align: right; margin-right: 10px; color: #000; font-size: 15px; }
+.office_locator_content .instruction { background: #f0f0f1; display: inline-block; border: 1px solid #f0f0f1; padding: 5px 10px; border-radius: 5px; margin-top: 5px; font-size: 12px; font-weight: 500; color: #000; font-style: italic; text-transform: capitalize; }
+.wt-section .form-table-wrap .form-table .office-locator-table .office_locator_content .offcie_locator_csv_main .offcie_locator_upload_btn { background-color: #f9bc60; border-radius: 5px; color: #000; border: none; padding: 4px 25px; font-weight: 600; display: flex; min-height: 40px; align-items: center; position: relative; margin-right: 5px; transition: 0.5s all ease; }
+.wt-section .form-table-wrap .form-table .office-locator-table .office_locator_content .office-locator-dual-ring { display: none; position: absolute; right: 7px; top: 52%; transform: translateY(-50%); }
+.wt-section .form-table-wrap .form-table .office-locator-table .office_locator_content .office-locator-dual-ring.active-import { display: inline-block; }
+.wt-section .form-table-wrap .form-table .office-locator-table .file-upload { position: relative; display: inline-block; max-width: 500px; }
+.wt-section .form-table-wrap .form-table .office-locator-table .download-tooltip a { text-align: right; display: flex; margin-left: auto; text-decoration: none; background-color: #f9bc60; border-radius: 5px; color: #000; padding: 13px 20px; align-items: center; min-height: 20px; transition: 0.5s all ease; }
+.wt-section .form-table-wrap .form-table .office-locator-export .offcie_locator_export_btn{ background-color: #f9bc60; border-radius: 5px; border:none; font-weight: 700; padding: 5px 20px; display: flex; gap:5px; width: fit-content; transition: all 0.5s ease; }
+.wt-section .form-table-wrap .form-table .office-locator-export .offcie_locator_export_btn a{ text-decoration: none; color: #000; }
+.offcie_locator_csv_main .download-tooltip .office-download-tooltiptext { visibility: hidden; width: 180px; background-color: black; color: #fff; text-align: center; border-radius: 6px; padding: 5px 0; position: absolute; z-index: 1; bottom: 125%; left: 50%; margin-left: -60px; }
+.offcie_locator_csv_main .download-tooltip .office-download-tooltiptext::after { content: ""; position: absolute; top: 100%; left: 50%; margin-left: -36px; border-width: 8px; border-style: solid; border-color: black transparent transparent transparent; }
+.offcie_locator_csv_main .download-tooltip:hover .office-download-tooltiptext { visibility: visible; }
+.form-table-wrap .office_locator_import_message { max-width: 500px; width: 100%; }
+.form-table-wrap .office_locator_import_message span { padding: 10px; display: block; border-radius: 3px 3px 3px 3px; text-align: center; margin-bottom: 5px; }
+.form-table-wrap .office_locator_import_message .success { color: #270; background-color: #DFF2BF; border-left: 2px solid #270; }
+.form-table-wrap .office_locator_import_message .error{ color: #D8000C; background-color: #FFBABA; border-left: 2px solid #D8000C; }
+.office-locator-export .offcie_locator_export_btn svg, .office-locator-export .offcie_locator_export_btn i { margin-right: 5px; }
+
+/* Office Locator Import Export Table End
+----------------------------------------------*/
+
+/* Office Locator Import Export Table Media Start
+----------------------------------------------------*/
+@media ( max-width : 960px ){
+    .wt-section.wt-locator-scroll.activated .form-table-wrap { width: calc( 100% - 87px ); margin-left: 56px; }
+}
+
+@media ( max-width : 782px ){
+    .wt-section.wt-locator-scroll.activated .form-table-wrap { width: calc( 100% - 41px ); margin-left: 10px; }
+}
+/* Office Locator Import Export Table Media End
+----------------------------------------------------*/
